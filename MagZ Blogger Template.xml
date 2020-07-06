@@ -3308,7 +3308,7 @@ head.appendChild(script);
 
         <div class='magz-cwrap body-row'>
           <div class='magz-credit_copyright leftboxc'>
-            Copyright 2017, <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>. All rights Reserved.</div>
+            Copyright 2017, <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>. All rights Reserved.   | <a href='https://www.theme-daddy.com' target='_blank' title="Best Free WordPress Themes">ThemeDaddy - Best Themes Everytime!</a></div>
           <div class='rightboxc'>
             <b:section class='magz-social blue' id='header social widget' maxwidgets='1' name='Bottom Social Widget' preferred='no' showaddelement='no'>
               <b:widget id='LinkList998' locked='true' title='Social Media Icons' type='LinkList' version='1'>
